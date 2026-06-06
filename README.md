@@ -28,6 +28,8 @@ This section is explained for **Linux**. It may differ if you use another OS.
 - You can use the key "P" to print a partial split (timestamp) of the elapsed time in the terminal.
 - You can always use ctrl+c to print the elapsed time and immediately exit.
 
+*Note:* There are also a couple of customization settings such as color, that you can explore in the first lines of the source code.
+
 ---
 
 ## 📷️Screeshots of the running stopwatch
