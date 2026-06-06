@@ -31,5 +31,5 @@ This section is explained for **Linux**. It may differ if you use another OS.
 ---
 
 ## 📷️Screeshots of the running stopwatch
-![IMG0]([https://www.markdownlang.com/static/images/logo.png](https://raw.githubusercontent.com/toccifrancesco/cli-stopwatch/refs/heads/main/Screenshots/sw-0.png))
-![IMG1]([https://www.markdownlang.com/static/images/logo.png](https://raw.githubusercontent.com/toccifrancesco/cli-stopwatch/refs/heads/main/Screenshots/sw-1.png))
+![IMG0](https://github.com/toccifrancesco/cli-stopwatch/blob/main/Screenshots/sw-0.png)
+![IMG1](https://github.com/toccifrancesco/cli-stopwatch/blob/main/Screenshots/sw-1.png)
